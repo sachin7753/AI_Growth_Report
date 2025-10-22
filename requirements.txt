@@ -1,0 +1,11 @@
+streamlit
+torch
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+reportlab
+joblib
+PyDrive2
